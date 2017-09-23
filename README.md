@@ -2,16 +2,30 @@
 
 Our cloud platform's design files, documentation and issue tracking
 
+## Features
+
+* [server instance](/../../labels/server%20instance)
+* [virtual server instance](/../../labels/virtual%20server%20instance)
+* [dns server instance](/../../labels/dns%20server%20instance)
+* [web server instance](/../../labels/web%20server%20instance)
+* [email server instance](/../../labels/email%20server%20instance)
+* [dns zone](/../../labels/dns%20zone)
+* [domain registry](/../../labels/domain%20registry)
+* [domain registry](/../../labels/domain%20registry)
+* [firewall](/../../labels/firewall)
+* [payment](/../../labels/payment)
+* [vpn](/../../labels/vpn)
+
 ## Requirements
 
-See [issues](/../../labels/requirement) with the `requirement` label.
+[Requirements](/../../labels/requirement) are labeled with the `requirement` label.
 
 ## Use cases
 
-See [issues](/../../labels/use%20case) with the `use case` label.
+[Use cases](/../../labels/use%20case) are labeled with the `use case` label.
 
 ## Actors
 
-* The User -- User using the App
-* The App -- Web Application between the User and the System
-* The System -- Microservices providing interfaces to all parts of the platform
+* [The User](/../../labels/user%20actor) -- User using the App
+* [The App](/../../labels/app%20actor) -- Web Application between the User and the System
+* [The System](/../../labels/system%20actor) -- Microservices providing interfaces to all parts of the platform
