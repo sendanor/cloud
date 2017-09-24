@@ -16,6 +16,14 @@ Our cloud platform's design files, documentation and issue tracking
 * [payment](/../../labels/payment)
 * [vpn](/../../labels/vpn)
 
+## Road map
+
+See [milestones](https://github.com/sendanor/cloud/milestones?direction=asc&sort=due_date&state=open).
+
+## Backlog
+
+See [issues without milestone](https://github.com/sendanor/cloud/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone).
+
 ## Requirements
 
 [Requirements](/../../labels/requirement) are labeled with the `requirement` label.
