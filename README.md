@@ -26,6 +26,6 @@ Our cloud platform's design files, documentation and issue tracking
 
 ## Actors
 
-* [The User](/../../labels/user%20actor) -- User using the App
-* [The App](/../../labels/app%20actor) -- Web Application between the User and the System
-* [The System](/../../labels/system%20actor) -- Microservices providing interfaces to all parts of the platform
+* [The User](/../../labels/user%20actor) -- User using the App (eg. web user using modern web browser)
+* [The App](/../../labels/app%20actor) -- Web App between the User and the System (eg. website http://www.sendanor.fi)
+* [The System](/../../labels/system%20actor) -- Microservices providing interfaces to all parts of the platform (eg. web APIs to all features)
