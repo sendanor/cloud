@@ -22,7 +22,7 @@ See [milestones](https://github.com/sendanor/cloud/milestones?direction=asc&sort
 
 ## Backlog
 
-See [issues without milestone](https://github.com/sendanor/cloud/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone).
+See [issues without a milestone](https://github.com/sendanor/cloud/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone).
 
 ## Requirements
 
